@@ -1,0 +1,477 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\standings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:standings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\model\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:model\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\detailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:detailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\detailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:detailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\addplayer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:addplayer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\services\\mysqldatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:services\\mysqldatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\services\\idatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:services\\idatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\standings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:standings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\addplayer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:addplayer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Roaming\\Microsoft\\UserSecrets\\4dbcbd54-2faf-49e5-b73c-d3827098dde7\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\resources\\appicon\\appiconfg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:resources\\appicon\\appiconfg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|c:\\users\\user\\documents\\school\\jaar 3\\c#.net\\project\\resources\\images\\dotnet_bot.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{808CF78B-EAC3-43E9-A740-339437A754E4}|Project.csproj|solutionrelative:resources\\images\\dotnet_bot.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.43\\tools\\Xamarin.Android.Aapt2.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.3\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Standings.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Standings.xaml",
+              "RelativeDocumentMoniker": "Standings.xaml",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Standings.xaml",
+              "RelativeToolTip": "Standings.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-11-27T13:31:57.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T14:12:05.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetailsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\DetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "DetailsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\DetailsPage.xaml.cs",
+              "RelativeToolTip": "DetailsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T08:44:09.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetailsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\DetailsPage.xaml",
+              "RelativeDocumentMoniker": "DetailsPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\DetailsPage.xaml",
+              "RelativeToolTip": "DetailsPage.xaml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-12-04T08:44:11.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddPlayer.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\AddPlayer.xaml.cs",
+              "RelativeDocumentMoniker": "AddPlayer.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\AddPlayer.xaml.cs",
+              "RelativeToolTip": "AddPlayer.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T08:50:17.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Standings.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Standings.xaml.cs",
+              "RelativeDocumentMoniker": "Standings.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Standings.xaml.cs",
+              "RelativeToolTip": "Standings.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T13:35:39.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Model\\Team.cs",
+              "RelativeDocumentMoniker": "Model\\Team.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Model\\Team.cs",
+              "RelativeToolTip": "Model\\Team.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAawCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T14:28:31.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "Resources\\Styles\\Colors.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-11-27T13:49:06.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "Resources\\Styles\\Styles.xaml",
+              "ViewState": "AQIAAEoBAAAAAAAAAAAAAFsBAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-11-27T13:49:38.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MysqlDataStore.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Services\\MysqlDataStore.cs",
+              "RelativeDocumentMoniker": "Services\\MysqlDataStore.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Services\\MysqlDataStore.cs",
+              "RelativeToolTip": "Services\\MysqlDataStore.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAABAwCQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T15:05:11.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDataStore.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Services\\IDataStore.cs",
+              "RelativeDocumentMoniker": "Services\\IDataStore.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Services\\IDataStore.cs",
+              "RelativeToolTip": "Services\\IDataStore.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T15:02:18.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddPlayer.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\AddPlayer.xaml",
+              "RelativeDocumentMoniker": "AddPlayer.xaml",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\AddPlayer.xaml",
+              "RelativeToolTip": "AddPlayer.xaml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwDkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-12-04T08:49:25.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T13:48:45.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Project.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Project.csproj",
+              "RelativeDocumentMoniker": "Project.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Project.csproj",
+              "RelativeToolTip": "Project.csproj",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-11-27T15:10:31.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T13:48:44.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2023-11-27T12:51:45.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\Microsoft\\UserSecrets\\4dbcbd54-2faf-49e5-b73c-d3827098dde7\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\4dbcbd54-2faf-49e5-b73c-d3827098dde7\\secrets.json",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\Microsoft\\UserSecrets\\4dbcbd54-2faf-49e5-b73c-d3827098dde7\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\4dbcbd54-2faf-49e5-b73c-d3827098dde7\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-12-04T14:27:10.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T12:33:48.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-11-27T12:33:40.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appicon.svg",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Resources\\AppIcon\\appicon.svg",
+              "RelativeDocumentMoniker": "Resources\\AppIcon\\appicon.svg",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Resources\\AppIcon\\appicon.svg",
+              "RelativeToolTip": "Resources\\AppIcon\\appicon.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAArGSURBVFhHzVhZbFxXGf7mzp19H28zY3u8O3FiO83SRk4KaaIEJRWgLiAhKC\u002BIlgfUByqhQiWkvvCI\u002BtBSeKqiClAhBJq2SUtLmyZR2hCTpLHTJLbjLR7Pvm93Zu7ce/nPnbE7XtIUiQc\u002B\u002BZ9z7rln\u002Be7//\u002Bc//zH\u002Br6AoiqZe3RR\u002Bv9/7wgsvPEfVJ0k4tbEOGqvKClbq69sZVtrqcua11157eXJy8lb99Rp8KaHe3t6Rl1566YO9e/e2aLXaDX3XL7weK\u002B\u002Br1SrC4TASiQQymUx8fn7\u002B2okTJ34zPj7\u002BvtqhAdp6uSlcLlfHo48\u002B\u002BrPR0VGNxWKByWSqixFG40r93mI2m1VhdUYuEolgcHDQrNPpvNTuLZVK6eXl5Zn6ciruR8h77NixZ/r7\u002B8FxzGIrZlGLBsiAlIZG\u002BhyaymVoyueA8idQqnNQZIXeNoE0DNIMhoaGYLfbdTSfl\u002Bf5FiKVCQaDq6T\u002BK0JrTUT\u002BIItEJASN\u002BClQ/ABcliyQ/RhK4TMowhRQmoamGKB\u002BemiMXZibm4O/qwvNzc3QaDR6mtNnNBrtgiDcCRHYrPcldPTo0WcGBgZQkRQkiyLiuTJSxRIqlSR0VdJI6TQ0mdeByNsQ0hWUC3aURepf7YNU5qApzEArzKBi/gYCwSB0ej3y\u002BbzqV6QdPWmOlnFxFy9e/ICWVPja0puDKUQkIjEiEc6JWEwLSBUE8Iigx/wZtpnPwCicQz5pQS7ZhojhSWitu2GzumHhdeA1Asz4FJbCXyGJImmmCdPT0xCEIhGSYLVa4fP5PKS5vbScgUS4NyEtr5ENVm2kCPzteghLuSocTh5bfAXstH2MTvkNIDGDdLgFl4rfxbh0BNGwDh6bFfudbuxod8PKk/\u002Bki/TZE6q5B8j0Xp\u002BPCAmqC9hsNiSTKVy4cIHxsJLcm5Cpe7fN9Ngv\u002Bs7HOHS1G9C1qwMPWW\u002BgX3sctsLbwPISEslhjLf\u002BCrPcHiicHaWcBtOBGMITUYQyAg5s9cBrc5Gjt9D38TCwXWehdesBhOO0yGZzrMpa9Gob\u002B1kPy/ZD7qZjP/2a0eV4rOeRvRgZbsJh\u002B1ls4X8Pa\u002Bo0MBfCfHIf/mH7JW7weyDYW2Bw2dHms8PU40Hc3YZzoQrenwwgnJWh6PqgIY2QI68TYsJ\u002BaoTUygZC1geOGh37vjfa1tfz\u002BIFD28ZGuwx42PhPdHInYIp9CMyGcPXuXpwKPolrCx6EFwrILcVRFSrQU\u002Bx0OEywtDiQsThwOSHj7EwFed1OaMmZV1WzDo27dwMhndM34B0YPLxruH1sb6/Bs0d/CR78HfroR0QmiFDhICTv09i54xi\u002BNTKARzrs6OIk5KcWyV9yMOkYKQP0pLE4Z8K1MHA1ZIFWp1vRhrpZahw0Kpl7EjJvfdhs7x0d7va7xx4atPhHjDd1ncqb0CXPQpkLIiUSmfYfwb/lCB4c7MZYfyvGepqw3\u002B9Ev4EmjafBiRWYjVpYiZTGbkNANmN8IY98uQqZLbyqJEaiRuSehCyD\u002BzwdI7u2DXWaekbcy5Yu5R3osxQe5hYxEx5Fpu3HcHU/ghZ3M4x6LTmlBk6zHgOtNnx9Sxu05KAKhQUDRTezSQuD3QTBZMFCsoS5SBYSRe37YQ0h0miXv808uNOTdvYo78NaOAV5cR7xzBA\u002Bqv4AC8p2zKcVfB5M4/MAyTIrU7hNz0KlCrFIW5xKnlNg0HF0hmnBG3hkqlrcon5VmRxc1cZaYo0aWrPt9Tzn63UKHdttE9Zm4S\u002BQl6eQi3ZgvOd5hDSDuLNQAhYC7OSi46A\u002BbX0BddfQeeUw8eDJuXWU2ei0HLQGHQpaI\u002B4mCpAoyELHBtWG1USdZRWrhNhp3mTTOvuNNxyd1fd4JG\u002BiGG3DjY6nEfU/hr5BFrfoPKt1XwUjp4IqLKpXJA3IXcBJMsUe2uo6HoLeSEdOmrqsH13Dpj508uRJ/PonD7YPOz518\u002BnrqFBADBt2YKrrGYqSFqJOGiD63DqheEcmojr5jY5J3WlVf5EkWk1WSUtE8KuApqvByn1iHvQKHm3\u002BugOxMKKVXbjS\u002B3NoDA7aGBxuf3gLpXy5ZiHmC\u002Boo5hP1L2R/RIJV2W6qkraqsgSzKMNK/TtaLaA9UBu/Dht86Pjx49jaN73LzP\u002BrA0KADxf7cd3\u002BBBK2URjp06WKglKmhMN9TWh3mdWdW5uDCLBCZVMv61h5z/5Y\u002BLEadTAyFTb02QyqyQ4ePMi5nOLDXHnJK2WF6kJ1WLpiOoS0QtuWvlQkdfPknE6LHr0tVmxrd2J7BxMXhqkcppLVt3e4V2W4sy5\u002BeqbS32wjDa3Z1CqYdjb4kJx914bq5AiXT9mXYo7c1Vx/YVHyIluWUajIEKm/iSacihUQzZLZ1KFfgM1XpO1\u002B7uYy3hyfw1v/nsM7V\u002BZx5soCPppcwpXZCOLZYi0w3gcqISVz0o/yRCuXzWMi6A1cDnnv5nNiKVuoolCWUCbfsLS5sChUMUkxJ5DIoySyyCtTKSOcKWJ8Lor3pqI4vZDFmaCA06ES3rmbw5nbUVyaCtLOIwe/j7kYVEIaOdOLctGk5KvJQEB/bfaOOJ4JJkPxTFlKF0TSkgStnZySDs2JVAnnZ\u002BO4vpTCTQqM15eSuEjP7xKZSlMzHMNbYB7dDm7bVlTbOyCbzBROTPC5rZuajGGDyRQpb4dY4as5LBkW5y\u002BJk9fOzd9a/CwaTKej6RISlJzlqwrM7c3g/W24XdbgDUrafndhFn\u002B4chefxEvgujqh7/JBpJwnVZIQJLKFu2H0U9Z45IHu\u002BhG2UUOb\u002B1BZkBVKmitFpPTRSMyaWLpcicT\u002BGBi/OR6jkB9OUy5dqCBVViBRlmcd6kLbvmH4DuyCe2wHzNsGIHk8yHE68rEqAqS98uwihjgBh4mM28qy0xrY2jVhJDYSVAkJ2fK0LCpFlgZrKRC0TF\u002BMdZ9//RwnFP9kuTUBQyCEIOWyi8kylsmvYkQsIXNI0R0hQ9EyJnEIkbMvhotIzAXgXJzCwSYJ397diZ42h7rQV4VK6OXnY7eXbosTOhvcTg/a7SZRKy1czVTO/vbOPpeAB\u002BnUaJ6fg356HgLlROH5OCUAWcws5XF3Po3U1DJKk3dgvjmJLfkQnhhqwRN7ejDgddIXrvebjZppNJl6DfKkZbHZiZTbBYvPi97tI\u002Bjdv19sP7CnPNzpaz8ytvMh9DU5Yae5dXRj4HM5cMkEXX0iMKeT8EgFdOsljHVYcYjSkAe6m9HmNNOJv3oQqGhYVwVL9FOpFOhKHbp8\u002BfKfqSmrEqLrHpBEKrKAZGARuUgY2VQU6XLBZuT9\u002B7\u002B5Z/cBtLocaKHA2Gk3YsBlxLYmI0ZbTdjptWIH5dIjarB0o6vVDjvlSFr1pvsFamTWMmKEksnkGkL1oxDoo91vrmX\u002BRhJGVG7p7Bz\u002B4Ysvnv/\u002BU0\u002Bp6YVMZ1JtUiarQ9eovHHRxubNCPHktLOzs3j11VevvPLKK49TU2D1M2ap9yTdyEkyJEmS9B2NpshyYfYljBAr7y8sk2yUWruW5UaULzXKSo7diPUetx6iJEnRSCSixGIxxONxkgRiMSbxVWFtK7K2/d7vmLD/hiQSiYooillaS81PNlJsAF1zvc8\u002B\u002B\u002BxzZJLvkDAP1TDzNJpo5XmlbbNyfVsjyuVyZGZm5u1Tp069TI\u002BJLyXUABbZ7CQr/vW/BDvkBBK6wqL8Hx0IYHAkOp6uAAAAAElFTkSuQmCC",
+              "WhenOpened": "2023-11-27T12:52:34.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appiconfg.svg",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Resources\\AppIcon\\appiconfg.svg",
+              "RelativeDocumentMoniker": "Resources\\AppIcon\\appiconfg.svg",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Resources\\AppIcon\\appiconfg.svg",
+              "RelativeToolTip": "Resources\\AppIcon\\appiconfg.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAArGSURBVFhHzVhZbFxXGf7mzp19H28zY3u8O3FiO83SRk4KaaIEJRWgLiAhKC\u002BIlgfUByqhQiWkvvCI\u002BtBSeKqiClAhBJq2SUtLmyZR2hCTpLHTJLbjLR7Pvm93Zu7ce/nPnbE7XtIUiQc\u002B\u002BZ9z7rln\u002Be7//\u002Bc//zH\u002Br6AoiqZe3RR\u002Bv9/7wgsvPEfVJ0k4tbEOGqvKClbq69sZVtrqcua11157eXJy8lb99Rp8KaHe3t6Rl1566YO9e/e2aLXaDX3XL7weK\u002B\u002Br1SrC4TASiQQymUx8fn7\u002B2okTJ34zPj7\u002BvtqhAdp6uSlcLlfHo48\u002B\u002BrPR0VGNxWKByWSqixFG40r93mI2m1VhdUYuEolgcHDQrNPpvNTuLZVK6eXl5Zn6ciruR8h77NixZ/r7\u002B8FxzGIrZlGLBsiAlIZG\u002BhyaymVoyueA8idQqnNQZIXeNoE0DNIMhoaGYLfbdTSfl\u002Bf5FiKVCQaDq6T\u002BK0JrTUT\u002BIItEJASN\u002BClQ/ABcliyQ/RhK4TMowhRQmoamGKB\u002BemiMXZibm4O/qwvNzc3QaDR6mtNnNBrtgiDcCRHYrPcldPTo0WcGBgZQkRQkiyLiuTJSxRIqlSR0VdJI6TQ0mdeByNsQ0hWUC3aURepf7YNU5qApzEArzKBi/gYCwSB0ej3y\u002BbzqV6QdPWmOlnFxFy9e/ICWVPja0puDKUQkIjEiEc6JWEwLSBUE8Iigx/wZtpnPwCicQz5pQS7ZhojhSWitu2GzumHhdeA1Asz4FJbCXyGJImmmCdPT0xCEIhGSYLVa4fP5PKS5vbScgUS4NyEtr5ENVm2kCPzteghLuSocTh5bfAXstH2MTvkNIDGDdLgFl4rfxbh0BNGwDh6bFfudbuxod8PKk/\u002Bki/TZE6q5B8j0Xp\u002BPCAmqC9hsNiSTKVy4cIHxsJLcm5Cpe7fN9Ngv\u002Bs7HOHS1G9C1qwMPWW\u002BgX3sctsLbwPISEslhjLf\u002BCrPcHiicHaWcBtOBGMITUYQyAg5s9cBrc5Gjt9D38TCwXWehdesBhOO0yGZzrMpa9Gob\u002B1kPy/ZD7qZjP/2a0eV4rOeRvRgZbsJh\u002B1ls4X8Pa\u002Bo0MBfCfHIf/mH7JW7weyDYW2Bw2dHms8PU40Hc3YZzoQrenwwgnJWh6PqgIY2QI68TYsJ\u002BaoTUygZC1geOGh37vjfa1tfz\u002BIFD28ZGuwx42PhPdHInYIp9CMyGcPXuXpwKPolrCx6EFwrILcVRFSrQU\u002Bx0OEywtDiQsThwOSHj7EwFed1OaMmZV1WzDo27dwMhndM34B0YPLxruH1sb6/Bs0d/CR78HfroR0QmiFDhICTv09i54xi\u002BNTKARzrs6OIk5KcWyV9yMOkYKQP0pLE4Z8K1MHA1ZIFWp1vRhrpZahw0Kpl7EjJvfdhs7x0d7va7xx4atPhHjDd1ncqb0CXPQpkLIiUSmfYfwb/lCB4c7MZYfyvGepqw3\u002B9Ev4EmjafBiRWYjVpYiZTGbkNANmN8IY98uQqZLbyqJEaiRuSehCyD\u002BzwdI7u2DXWaekbcy5Yu5R3osxQe5hYxEx5Fpu3HcHU/ghZ3M4x6LTmlBk6zHgOtNnx9Sxu05KAKhQUDRTezSQuD3QTBZMFCsoS5SBYSRe37YQ0h0miXv808uNOTdvYo78NaOAV5cR7xzBA\u002Bqv4AC8p2zKcVfB5M4/MAyTIrU7hNz0KlCrFIW5xKnlNg0HF0hmnBG3hkqlrcon5VmRxc1cZaYo0aWrPt9Tzn63UKHdttE9Zm4S\u002BQl6eQi3ZgvOd5hDSDuLNQAhYC7OSi46A\u002BbX0BddfQeeUw8eDJuXWU2ei0HLQGHQpaI\u002B4mCpAoyELHBtWG1USdZRWrhNhp3mTTOvuNNxyd1fd4JG\u002BiGG3DjY6nEfU/hr5BFrfoPKt1XwUjp4IqLKpXJA3IXcBJMsUe2uo6HoLeSEdOmrqsH13Dpj508uRJ/PonD7YPOz518\u002BnrqFBADBt2YKrrGYqSFqJOGiD63DqheEcmojr5jY5J3WlVf5EkWk1WSUtE8KuApqvByn1iHvQKHm3\u002BugOxMKKVXbjS\u002B3NoDA7aGBxuf3gLpXy5ZiHmC\u002Boo5hP1L2R/RIJV2W6qkraqsgSzKMNK/TtaLaA9UBu/Dht86Pjx49jaN73LzP\u002BrA0KADxf7cd3\u002BBBK2URjp06WKglKmhMN9TWh3mdWdW5uDCLBCZVMv61h5z/5Y\u002BLEadTAyFTb02QyqyQ4ePMi5nOLDXHnJK2WF6kJ1WLpiOoS0QtuWvlQkdfPknE6LHr0tVmxrd2J7BxMXhqkcppLVt3e4V2W4sy5\u002BeqbS32wjDa3Z1CqYdjb4kJx914bq5AiXT9mXYo7c1Vx/YVHyIluWUajIEKm/iSacihUQzZLZ1KFfgM1XpO1\u002B7uYy3hyfw1v/nsM7V\u002BZx5soCPppcwpXZCOLZYi0w3gcqISVz0o/yRCuXzWMi6A1cDnnv5nNiKVuoolCWUCbfsLS5sChUMUkxJ5DIoySyyCtTKSOcKWJ8Lor3pqI4vZDFmaCA06ES3rmbw5nbUVyaCtLOIwe/j7kYVEIaOdOLctGk5KvJQEB/bfaOOJ4JJkPxTFlKF0TSkgStnZySDs2JVAnnZ\u002BO4vpTCTQqM15eSuEjP7xKZSlMzHMNbYB7dDm7bVlTbOyCbzBROTPC5rZuajGGDyRQpb4dY4as5LBkW5y\u002BJk9fOzd9a/CwaTKej6RISlJzlqwrM7c3g/W24XdbgDUrafndhFn\u002B4chefxEvgujqh7/JBpJwnVZIQJLKFu2H0U9Z45IHu\u002BhG2UUOb\u002B1BZkBVKmitFpPTRSMyaWLpcicT\u002BGBi/OR6jkB9OUy5dqCBVViBRlmcd6kLbvmH4DuyCe2wHzNsGIHk8yHE68rEqAqS98uwihjgBh4mM28qy0xrY2jVhJDYSVAkJ2fK0LCpFlgZrKRC0TF\u002BMdZ9//RwnFP9kuTUBQyCEIOWyi8kylsmvYkQsIXNI0R0hQ9EyJnEIkbMvhotIzAXgXJzCwSYJ397diZ42h7rQV4VK6OXnY7eXbosTOhvcTg/a7SZRKy1czVTO/vbOPpeAB\u002BnUaJ6fg356HgLlROH5OCUAWcws5XF3Po3U1DJKk3dgvjmJLfkQnhhqwRN7ejDgddIXrvebjZppNJl6DfKkZbHZiZTbBYvPi97tI\u002Bjdv19sP7CnPNzpaz8ytvMh9DU5Yae5dXRj4HM5cMkEXX0iMKeT8EgFdOsljHVYcYjSkAe6m9HmNNOJv3oQqGhYVwVL9FOpFOhKHbp8\u002BfKfqSmrEqLrHpBEKrKAZGARuUgY2VQU6XLBZuT9\u002B7\u002B5Z/cBtLocaKHA2Gk3YsBlxLYmI0ZbTdjptWIH5dIjarB0o6vVDjvlSFr1pvsFamTWMmKEksnkGkL1oxDoo91vrmX\u002BRhJGVG7p7Bz\u002B4Ysvnv/\u002BU0\u002Bp6YVMZ1JtUiarQ9eovHHRxubNCPHktLOzs3j11VevvPLKK49TU2D1M2ap9yTdyEkyJEmS9B2NpshyYfYljBAr7y8sk2yUWruW5UaULzXKSo7diPUetx6iJEnRSCSixGIxxONxkgRiMSbxVWFtK7K2/d7vmLD/hiQSiYooillaS81PNlJsAF1zvc8\u002B\u002B\u002BxzZJLvkDAP1TDzNJpo5XmlbbNyfVsjyuVyZGZm5u1Tp069TI\u002BJLyXUABbZ7CQr/vW/BDvkBBK6wqL8Hx0IYHAkOp6uAAAAAElFTkSuQmCC",
+              "WhenOpened": "2023-11-27T12:52:35.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T12:33:55.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-11-27T12:33:52.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-11-27T12:47:47.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Microsoft.Maui.Resizetizer.After.targets",
+              "DocumentMoniker": "C:\\Users\\User\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.3\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.3\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ToolTip": "C:\\Users\\User\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.3\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.3\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ViewState": "AQIAAFICAAAAAAAAAIAwwGMCAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2023-11-27T12:46:43.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T12:33:46.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Xamarin.Android.Aapt2.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.43\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.43\\tools\\Xamarin.Android.Aapt2.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.43\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.43\\tools\\Xamarin.Android.Aapt2.targets",
+              "ViewState": "AQIAAMQAAAAAAAAAAIAwwNUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2023-11-27T12:51:25.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "dotnet_bot.png",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Resources\\Images\\dotnet_bot.png",
+              "RelativeDocumentMoniker": "Resources\\Images\\dotnet_bot.png",
+              "ToolTip": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Resources\\Images\\dotnet_bot.png",
+              "RelativeToolTip": "Resources\\Images\\dotnet_bot.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2023-11-27T12:52:38.646Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

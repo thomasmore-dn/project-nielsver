@@ -1,0 +1,5 @@
+FROM mysql:latest
+USER root
+RUN chmod 755 /var/lib/mysql
+COPY teamsdb.sql /docker-entrypoint-initdb.d/
+ENV MYSQL_ROOT_PASSWORD=pw

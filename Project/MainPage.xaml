@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Project.MainPage"
+             Shell.BackgroundColor="MediumPurple"
+             >
+
+    <ContentPage.Background>
+        <LinearGradientBrush StartPoint="0,0.5" EndPoint="1,0.5">
+            <GradientStop Offset="0" Color="DeepPink" />
+            <GradientStop Offset="1" Color="Purple" />
+        </LinearGradientBrush>
+    </ContentPage.Background>
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,200"
+            Spacing="100">
+    
+
+            <Label
+                Text="BNXT League Standing and Scores"
+                Style="{StaticResource Headline}"
+                SemanticProperties.HeadingLevel="Level1" />
+
+
+            <Button
+                x:Name="CounterBtn"
+                Text="Welcome" 
+                HorizontalOptions="Fill"
+                Clicked="CounterBtn_Clicked"/>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

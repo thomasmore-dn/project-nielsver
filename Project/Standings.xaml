@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Project.Standings"
+             Title="Standings"
+             Shell.BackgroundColor="MediumPurple"
+             >
+    <StackLayout>
+        <StackLayout Orientation="Horizontal" BackgroundColor="LightGray" Padding="10">
+            <Label Text="Team" WidthRequest="120"/>
+            <Label Text="Played" WidthRequest="100"/>
+            <Label Text="Wins" WidthRequest="50"/>
+            <Label Text="Loses" WidthRequest="50"/>
+            <Label Text="Points" WidthRequest="150"/>
+
+        </StackLayout>
+
+        <ListView x:Name="standingsListView" HasUnevenRows="True" ItemTapped="OnTeamTapped">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" Padding="10">
+                            <Label Text="{Binding TeamName}" WidthRequest="120"/>
+                            <Label Text="{Binding GamesPlayed}" WidthRequest="100"/>
+                            <Label Text="{Binding Wins}" WidthRequest="50"/>
+                            <Label Text="{Binding Loses}" WidthRequest="50"/>
+                            <Label Text="{Binding TotalPoints}" WidthRequest="100"/>
+
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

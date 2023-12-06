@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Project.DetailsPage"
+             Title="Team"
+             Shell.BackgroundColor="MediumPurple">
+    <VerticalStackLayout>
+        <Label 
+            x:Name="teamname"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center"
+            FontSize="Title"
+            Margin="30"/>
+
+        <StackLayout >
+            <StackLayout Orientation="Horizontal" BackgroundColor="LightGray" Padding="10">
+                <Label Text="Name" WidthRequest="100"/>
+                <Label Text="Position" WidthRequest="100"/>
+                <Label Text="Total Points" WidthRequest="70"/>
+                <Label Text="Games played" WidthRequest="70"/>
+                <Label Text="PPG" WidthRequest="70"/>
+
+            </StackLayout>
+
+
+            <ListView x:Name="playersListView" HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal" Padding="10">
+                                <Label Text="{Binding Name}" WidthRequest="120"/>
+                                <Label Text="{Binding Position}" WidthRequest="70"/>
+                                <Label Text="{Binding TotalPoints}" WidthRequest="70"/>
+                                <Label Text="{Binding GamesPlayed}" WidthRequest="70"/>
+                                <Label Text="{Binding PointsPerGame}" WidthRequest="70"/>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+        <Button Margin="20" Text="Add player" Clicked="AddPlayerButton_Clicked"></Button> 
+    </VerticalStackLayout>
+</ContentPage>
