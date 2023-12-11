@@ -1,1 +1,1 @@
-C:\Users\User\Documents\GitHub\Allprojects\dotnet\Project\Project.csproj;x64
+C:\Users\User\Documents\school\jaar 3\C#.NET\Project\Project.csproj;x64

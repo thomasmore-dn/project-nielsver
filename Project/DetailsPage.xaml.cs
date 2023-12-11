@@ -5,6 +5,7 @@ namespace Project;
 public partial class DetailsPage : ContentPage
 {
 	Team teamg;
+    public IDataStore DataStore => DependencyService.Get<IDataStore>();
     public DetailsPage(Team team)
 	{
 		InitializeComponent();
@@ -16,5 +17,10 @@ public partial class DetailsPage : ContentPage
 	{
 		Navigation.PushAsync(new AddPlayer(teamg));
 	}
+    public void OnDeleteTeam(object sender, EventArgs e)
+    {
+        DataStore.DeleteTeamAsync(teamg);
+		Navigation.PopAsync();
+    }
 
 }

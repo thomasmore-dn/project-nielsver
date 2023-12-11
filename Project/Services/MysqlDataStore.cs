@@ -15,25 +15,39 @@ namespace Project.Services
         public async Task<Team> GetTeamAsync(Team team)
         {
             HttpClient client = new HttpClient();
-            string response = await client.GetStringAsync("http://10.0.2.2:5096/api/teams/" + team.TeamId);
+            string response = await client.GetStringAsync("http://10.0.2.2:5000/api/teams/" + team.TeamId);
             Console.WriteLine("HTTPCLient repsonse: " + response);
             return JsonConvert.DeserializeObject<Team>(response);
         }
-        public void AddTeamAsync(Team team)
+        public async void AddTeamAsync(Team t)
         {
-            TeamList.Add(team);
+            HttpClient client = new HttpClient();
+            string jsonTeam = JsonConvert.SerializeObject(t);
+
+            StringContent content = new StringContent(jsonTeam, Encoding.UTF8, "application/json");
+
+            Console.WriteLine(t);
+            string apiUrl = "http://10.0.2.2:5000/api/teams/";
+            Console.WriteLine(apiUrl);
+
+            HttpResponseMessage response = await client.PostAsync(apiUrl, content);
+            string responseContent = await response.Content.ReadAsStringAsync();
+            Console.WriteLine($"Response content: {responseContent}");
         }
 
-        public void DeleteTeamAsync(Team team)
+        public async void DeleteTeamAsync(Team t)
         {
-            TeamList.Remove(team);
+            HttpClient client = new HttpClient();
+            HttpResponseMessage response = await client.DeleteAsync("http://10.0.2.2:5000/api/teams/" + t.TeamId);
+            Console.WriteLine("HTTPCLient repsonse: " + response);
         }
+
 
         public async Task<List<Team>> GetAllTeamsAsync()
         {
             HttpClient client = new HttpClient();
-            /*string response = await client.GetStringAsync("http://localhost:5096/api/teams");*/
-            string response = await client.GetStringAsync("http://10.0.2.2:5096/api/teams");
+            /*string response = await client.GetStringAsync("http://localhost:5000/api/teams");*/
+            string response = await client.GetStringAsync("http://10.0.2.2:5000/api/teams");
             Console.WriteLine("HTTPCLient repsonse: " + response);
             return JsonConvert.DeserializeObject<List<Team>>(response);  
         }
@@ -46,7 +60,7 @@ namespace Project.Services
                 StringContent content = new StringContent(jsonTeam, Encoding.UTF8, "application/json");
 
                 Console.WriteLine(team);
-                string apiUrl = "http://10.0.2.2:5096/api/teams/" + team.TeamId;
+                string apiUrl = "http://10.0.2.2:5000/api/teams/" + team.TeamId;
                 Console.WriteLine(apiUrl);
 
                 HttpResponseMessage response = await client.PutAsync(apiUrl, content);

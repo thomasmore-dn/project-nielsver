@@ -64,6 +64,7 @@
                 SemanticProperties.Description="GamesPlayed"
                 />
             <Button Text="Submit" Clicked="OnSubmitClicked" />
+             
             </VerticalStackLayout>
 
 

@@ -31,5 +31,6 @@
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
+        <Button Clicked="Button_Clicked_Add_Team" Text="Add Team" VerticalOptions="End" HorizontalOptions="Fill"></Button>
     </StackLayout>
 </ContentPage>

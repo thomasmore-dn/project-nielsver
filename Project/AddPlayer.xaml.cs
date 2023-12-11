@@ -41,4 +41,5 @@ public partial class AddPlayer : ContentPage
             DisplayAlert("Error", "Please enter valid integer values.", "OK");
         }
     }
+
 }

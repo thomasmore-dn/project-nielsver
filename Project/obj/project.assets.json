@@ -37546,11 +37546,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Allprojects\\dotnet\\Project\\Project.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Project.csproj",
       "projectName": "Project",
-      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Allprojects\\dotnet\\Project\\Project.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\Project.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Allprojects\\dotnet\\Project\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\school\\jaar 3\\C#.NET\\Project\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

@@ -1036,9 +1036,9 @@ C:\Users\User\Documents\school\jaar 3\C#.NET\Project\obj\Debug\net8.0-android\st
 C:\Users\User\Documents\school\jaar 3\C#.NET\Project\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\User\Documents\school\jaar 3\C#.NET\Project\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\User\Documents\school\jaar 3\C#.NET\Project\obj\Debug\net8.0-android\android\assets\Newtonsoft.Json.dll
-C:\Users\User\Documents\school\jaar 3\C#.NET\Project\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll
 C:\Users\User\Documents\school\jaar 3\C#.NET\Project\obj\Debug\net8.0-android\android\assets\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\User\Documents\school\jaar 3\C#.NET\Project\obj\Debug\net8.0-android\android\assets\Microsoft.Extensions.Diagnostics.Abstractions.dll
 C:\Users\User\Documents\school\jaar 3\C#.NET\Project\obj\Debug\net8.0-android\android\assets\Microsoft.Extensions.Diagnostics.dll
 C:\Users\User\Documents\school\jaar 3\C#.NET\Project\obj\Debug\net8.0-android\android\assets\Microsoft.Extensions.Http.dll
 C:\Users\User\Documents\school\jaar 3\C#.NET\Project\obj\Debug\net8.0-android\android\assets\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\User\Documents\school\jaar 3\C#.NET\Project\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll

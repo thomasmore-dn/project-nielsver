@@ -27,6 +27,7 @@ public partial class Standings : ContentPage
             {
                 TeamList.Add(team);
             }
+            Console.WriteLine("completion of getting teams ");
         }
         catch (Exception ex)
         {
@@ -60,5 +61,10 @@ public partial class Standings : ContentPage
             await Navigation.PushAsync(new DetailsPage(team));
         }
         ((ListView)sender).SelectedItem = null;
+    }
+
+    private void Button_Clicked_Add_Team(object sender, EventArgs e)
+    {
+        Navigation.PushAsync(new AddTeamPage());
     }
 }

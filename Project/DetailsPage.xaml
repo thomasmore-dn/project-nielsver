@@ -39,6 +39,7 @@
                 </ListView.ItemTemplate>
             </ListView>
         </StackLayout>
-        <Button Margin="20" Text="Add player" Clicked="AddPlayerButton_Clicked"></Button> 
+        <Button Margin="20" Text="Add player" Clicked="AddPlayerButton_Clicked"></Button>
+        <Button Text="Delete Team" Clicked="OnDeleteTeam"/>
     </VerticalStackLayout>
 </ContentPage>
