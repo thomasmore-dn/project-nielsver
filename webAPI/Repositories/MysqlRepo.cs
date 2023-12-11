@@ -26,7 +26,7 @@ namespace webAPI.Repositories
         public void AddTeam(Team t) {
             _context.Teams.Add(t);
         }
-
+ 
 
          public void SaveChanges() {
             _context.SaveChanges();

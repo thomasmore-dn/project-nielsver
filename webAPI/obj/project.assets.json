@@ -1588,11 +1588,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Allprojects\\dotnet\\webAPI\\webAPI.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Allprojects\\project-nielsver\\webAPI\\webAPI.csproj",
       "projectName": "webAPI",
-      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Allprojects\\dotnet\\webAPI\\webAPI.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Allprojects\\project-nielsver\\webAPI\\webAPI.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Allprojects\\dotnet\\webAPI\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Allprojects\\project-nielsver\\webAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
