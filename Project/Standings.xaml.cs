@@ -13,13 +13,19 @@ public partial class Standings : ContentPage
         TeamList = new ObservableCollection<Team>();
         standingsListView.ItemsSource = TeamList;
 
-        FillTeams();        
+       // FillTeams();        
 
+    }
+    protected override void OnAppearing()
+    {
+        base.OnAppearing();
+        FillTeams();
     }
     public async void FillTeams()
     {
         try
         {
+            TeamList.Clear();
             var teamsTask = DataStore.GetAllTeamsAsync();
             var teams = await teamsTask;
 
